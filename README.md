@@ -1,4 +1,4 @@
-# 🎮 Meu Catálogo de Jogos
+# 🎮 Catálogo de Jogos
 
 Projeto prático para estudos. Página web onde é possível cadastrar meus jogos, montar uma lista com os favoritos e ver estatísticas da coleção. 
 
